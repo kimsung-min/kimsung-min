@@ -1,5 +1,5 @@
-<h1 align="center">안녕하세요 👋, 저는 Sungmin Kim입니다.</h1>
-<h3 align="center">열정적인 백엔드 개발자입니다.</h3>
+<h1 align="center">안녕하세요 저는 백엔드 개발자 김성민입니다.</h1>
+<h3 align="center">소통을 통해 효율적인 문제 해결과 팀의 성장에 기여하는 개발자</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kimsung-min&label=Profile%20views&color=0e75b6&style=flat" alt="kimsung-min" />
