@@ -60,3 +60,23 @@
   <img src="https://img.shields.io/badge/Rocky Linux-10B981?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/MobaXterm-0066FF?style=for-the-badge&logoColor=white"/>
 </p>
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <a href="https://github.com/kimsung-min">
+    <img src="https://github-readme-stats.vercel.app/api?username=kimsung-min&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kimsung-min">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimsung-min&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kimsung-min">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsung-min&layout=compact&theme=radical" alt="Most Used Languages" />
+  </a>
+</p>
